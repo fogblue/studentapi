@@ -6,3 +6,5 @@
 - 임의의 위치에 등록한 프로젝트 clone
 - 소개내용 README.md 작성
 - 등록, clone, pull, push 명령어의 사용 과정을 확인할 스크린샷 + 저장소의 웹페이지 스크린샷 제출
+
+"clone 후 commit을 위한 수정"
